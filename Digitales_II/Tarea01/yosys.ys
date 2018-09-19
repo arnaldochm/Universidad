@@ -1,0 +1,4 @@
+read_verilog mux_estruc.v
+hierarchy; proc; opt; techmap; opt
+write_verilog mux_syn.v
+show
